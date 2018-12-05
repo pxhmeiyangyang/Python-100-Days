@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/pxh/Documents/Python/100Days/venv"
+VIRTUAL_ENV="/Users/pxh/Documents/MyPython-100-Days/100Days/venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
